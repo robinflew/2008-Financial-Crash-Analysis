@@ -41,9 +41,9 @@ This project analyzes the performance of six major U.S. banks during the 2008 Fi
 ## Project Structure
 
 ```
+── Finance_Analysis.ipynb.zip              # Main analysis notebook
+── README.md                               # This file
 modernized_finance_project/
-├── Finance_Analysis.ipynb              # Main analysis notebook
-├── README.md                           # This file
 ├── bank_prices_evolution.html          # Interactive price chart
 ├── returns_distribution.html           # Returns analysis chart
 ├── correlation_heatmap.html            # Correlation visualization
