@@ -4,7 +4,7 @@ A comprehensive analysis of major bank stocks during and after the 2008 Financia
 
 ## Project Overview
 
-This project analyzes the performance of six major U.S. banks during the 2008 Financial Crisis period (2006-2016) and extends the analysis to recent years. The analysis focuses on:
+This project analyzes the performance of six major U.S. banks during the 2008 Financial Crisis period and extends the analysis to recent years. The analysis focuses on:
 
 - **Stock Price Evolution**: How bank stocks performed during the crisis
 - **Risk Analysis**: Volatility patterns and risk metrics
